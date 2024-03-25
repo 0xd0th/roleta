@@ -8,7 +8,7 @@ for ( let i = 0 ; i < 9000 ; i++) {
     setTimeout( x => {
         colums.forEach (
             item => {
-                item.src = `./assets/imgs/fruta${parseInt(((Math.random()*10)+2)/2)}_mov.png`
+                item.src = `./assets/imgs/fruta${parseInt(((Math.random()*10)+2)/2)}.png`
             }       
         )
     }, 10)
