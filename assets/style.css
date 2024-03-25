@@ -1,9 +1,10 @@
+body {
+    background-color: #e7af8c;
+}
 
 main {
     width: 323px;
     height: 323px;
-
-    background-color: #e7af8c;
 }
 
 .row {
